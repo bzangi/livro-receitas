@@ -10,6 +10,8 @@
 - 2 colheres de sopa de mostarda
 - Batata palha e arroz branco para acompanhamento
 
+### Repositório local
+
 git init -> cria um repositório na pasta
 
 git add -> adiciona um arquivo no repositório (torna ele 'tracked' e 'staged' pelo git)
