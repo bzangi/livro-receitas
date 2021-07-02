@@ -21,3 +21,5 @@ git remote add origin -> adiciona a pasta em questão a um repositório remoto a
 
 git push origin master -> envia os arquivos para o repositório (necessita de permissão do adm do repo)
 
+git pull origin master -> puxa os arquivos do repositório na última versão em que foram empurrados
+
