@@ -11,8 +11,11 @@
 - Batata palha e arroz branco para acompanhamento
 
 git init -> cria um repositório na pasta
+
 git add -> adiciona um arquivo no repositório (torna ele 'tracked' e 'staged' pelo git)
+
 git rm -> transforma o arquivo 'unmodified' em 'untracked' (remove do repositório)
+
 git commit -m "texto descrevendo commit" -> salva o arquivo e o torna 'unmodified'
 
 ### Repositório remoto
