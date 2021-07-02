@@ -28,3 +28,4 @@ git push origin master -> envia os arquivos para o repositório (necessita de pe
 
 git pull origin master -> puxa os arquivos do repositório na última versão em que foram empurrados
 
+git clone -> clona um repositório remoto completo a partir de uma URL e cria um repositório locals
